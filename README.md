@@ -7,5 +7,6 @@ Welcome to project Odyssey, a 2D Slick-based game skeleton created to provide a 
 
 Software:
 Slick2D - http://slick.ninjacave.com/
+
 LWJGL - http://lwjgl.org/
 
